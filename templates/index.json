@@ -1,1 +1,791 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"image_khEHV9":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/MARCH-SALE-FINAL_ed2e3fc0-145c-4bd2-85a1-3bbbf83ca477.png","mobile_image":"shopify:\/\/shop_images\/matrix-sale-phone.png","show_overlay":false,"overlay_opacity":30,"text_color":"#ffffff","title":"","content":"","content_position":"middle_center","button_background":"#ffffff","button_text_color":"#000000","button_text":"","link":"shopify:\/\/collections\/matrix"}},"image_WXNmzC":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/LIFEFITNESSBANNER.jpg","show_overlay":false,"overlay_opacity":30,"text_color":"#ffffff","title":"","content":"","content_position":"middle_center","button_background":"#ffffff","button_text_color":"#000000","button_text":"Button","link":""}},"image_BMCBDe":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/spirit_ad.png","show_overlay":false,"overlay_opacity":30,"text_color":"#ffffff","title":"","content":"","content_position":"middle_center","button_background":"#ffffff","button_text_color":"#000000","button_text":"","link":"shopify:\/\/collections\/spirit"}},"image_XHK36k":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/finalslide.jpg","show_overlay":false,"overlay_opacity":30,"text_color":"#ffffff","title":"","content":"","content_position":"middle_center","button_background":"#ffffff","button_text_color":"#000000","button_text":"","link":"shopify:\/\/collections\/home-gyms"}}},"block_order":["image_khEHV9","image_WXNmzC","image_BMCBDe","image_XHK36k"],"settings":{"edge_to_edge":true,"section_size":"preserve_ratio","carousel_effect":"fade","autoplay":true,"cycle_speed":3}},"1657562690da6a31c0":{"type":"featured-collection","settings":{"collection":"whats-trending","title":"Featured Products","products_count":12,"layout":"vertical","stack_products":false,"show_quick_buy":false,"link_title":"View all","link_url":""}},"1649776174584c605a":{"type":"promotion-list","blocks":{"1649776174c68b5b15-0":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/2-eliptical-removebg-preview.png","show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#0e184b","text_color":"#ffffff","title":"Ellipticals","content":"Explore  Ellipticals Products","content_position":"top_left","button_background":"#ffffff","button_text_color":"#000000","button_text":"View All","button_link":"shopify:\/\/collections\/all"}},"1649776174c68b5b15-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/3-Treadmill.png","show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#0e184b","text_color":"#ffffff","title":"Treadmills","content":"Explore Treadmills Products","content_position":"top_left","button_background":"#ffffff","button_text_color":"#000000","button_text":"View All","button_link":"shopify:\/\/collections\/all"}},"1649776174c68b5b15-2":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/bikebannerosimage-removebg-preview.png","show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#0e184b","text_color":"#ffffff","title":"Bikes","content":"Explore Bikes Products","content_position":"top_left","button_background":"#ffffff","button_text_color":"#000000","button_text":"View All","button_link":"shopify:\/\/collections\/all"}}},"block_order":["1649776174c68b5b15-0","1649776174c68b5b15-1","1649776174c68b5b15-2"],"disabled":true,"settings":{"title":"","link_title":"","link":"","expand_items":false,"section_size":"medium","stack_mobile":false}},"featured-collection":{"type":"featured-collection","disabled":true,"settings":{"collection":"home-gyms-from-tuffstuff","title":"HOME GYMS FROM TUFFSTUFF","products_count":12,"layout":"vertical","stack_products":false,"show_quick_buy":false,"link_title":"View all","link_url":"shopify:\/\/collections\/home-gyms-from-tuffstuff"}},"1649776185a30fbbdd":{"type":"collection-with-image","disabled":true,"settings":{"collection":"exercise-bikes-from-lifefitness","products_count":12,"show_quick_buy":true,"image":"shopify:\/\/shop_images\/bikebannerosimage-removebg-preview.png","background":"#0e184b","text_color":"#ffffff","title":"EXERCISE BIKES FROM LIFEFITNESS","content":"Explore Products","button_background":"#ff931c","button_text_color":"#ffffff","button_text":"Shop Now","button_link":"shopify:\/\/collections\/exercise-bikes-from-lifefitness"}},"164977678290082194":{"type":"featured-collection","disabled":true,"settings":{"collection":"benches-racks-from-tuff-stuff","title":"BENCHES\/RACKS FROM TUFF STUFF","products_count":12,"layout":"horizontal","stack_products":false,"show_quick_buy":true,"link_title":"View all","link_url":""}},"1649774236de7507b7":{"type":"image-with-text-overlay","settings":{"image":"shopify:\/\/shop_images\/stationary-bike-workout.jpg","title":"PACIFIC FITNESS EQUIPMENT","content":"<p>A locally owned company with an in-house service department committed to providing our customers the highest quality commercial fitness equipment and excellent customer service.<\/p><p><a href=\"\/pages\/about-us\" title=\"About Us\">Learn More<\/a><\/p>","show_image_overlay":true,"color":"#ffffff"}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","settings":{"collection":"ellipticals","image":"shopify:\/\/shop_images\/2_173dedd3-d4a1-4fcb-960f-01a599b1d660.png","link":"shopify:\/\/collections\/ellipticals"}},"collection-2":{"type":"collection","settings":{"collection":"treadmills","image":"shopify:\/\/shop_images\/3_67d9cf3b-178b-42e7-8905-15b60e33583e.png","link":"shopify:\/\/collections\/treadmills"}},"collection-3":{"type":"collection","settings":{"collection":"bikes","image":"shopify:\/\/shop_images\/4_a56b2375-f855-40f8-af43-872800299f07.png","link":"shopify:\/\/collections\/bikes"}},"collection-4":{"type":"collection","settings":{"collection":"home-gyms","image":"shopify:\/\/shop_images\/1_3d31f17d-a603-44c4-9b95-2a7e487b2923.png","link":"shopify:\/\/collections\/home-gyms"}},"collection-5":{"type":"collection","settings":{"collection":"rowers","image":"shopify:\/\/shop_images\/5_ab2ddcb5-5a54-4ce7-842c-be1504ae5b78.png","link":"shopify:\/\/collections\/rowers"}},"3dbcfce0-639a-4fb5-8f5d-cc72aac577a6":{"type":"collection","disabled":true,"settings":{"collection":"","link":""}}},"block_order":["collection-1","collection-2","collection-3","collection-4","collection-5","3dbcfce0-639a-4fb5-8f5d-cc72aac577a6"],"settings":{"title":"Our collections","link_title":"","link":"","round_images":false,"show_collection_title":true}},"16575626409f790119":{"type":"promotion-list","blocks":{"165756263917714aca-0":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#6f42ef","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#ffffff","button_text_color":"#6f42ef","button_text":"Learn more","button_link":""}},"165756263917714aca-1":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#fc2a68","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#ffffff","button_text_color":"#fc2a68","button_text":"Learn more","button_link":""}},"165756263917714aca-2":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#26c1ce","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#ffffff","button_text_color":"#26c1ce","button_text":"Learn more","button_link":""}}},"block_order":["165756263917714aca-0","165756263917714aca-1","165756263917714aca-2"],"disabled":true,"settings":{"title":"","link_title":"","link":"","expand_items":false,"section_size":"medium","stack_mobile":false}},"16575625821141e3f4":{"type":"mosaic","blocks":{"16575625824f496d04-0":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"background":"#f3f4f4","text_color":"#4f5558","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#4f5558","button_text_color":"#f3f4f4","button_text":"Learn more","link":""}},"16575625824f496d04-1":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"background":"#f3f4f4","text_color":"#4f5558","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#4f5558","button_text_color":"#f3f4f4","button_text":"Learn more","link":""}},"16575625824f496d04-2":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"background":"#f3f4f4","text_color":"#4f5558","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#4f5558","button_text_color":"#f3f4f4","button_text":"Learn more","link":""}},"16575625824f496d04-3":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"background":"#f3f4f4","text_color":"#4f5558","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#4f5558","button_text_color":"#f3f4f4","button_text":"Learn more","link":""}},"16575625824f496d04-4":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"background":"#f3f4f4","text_color":"#4f5558","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#4f5558","button_text_color":"#f3f4f4","button_text":"Learn more","link":""}}},"block_order":["16575625824f496d04-0","16575625824f496d04-1","16575625824f496d04-2","16575625824f496d04-3","16575625824f496d04-4"],"disabled":true,"settings":{"section_size":"medium"}},"16608560642e532848":{"type":"image-with-text","disabled":true,"settings":{"background_color":"#ff8600","text_color":"#ff8600","image":"shopify:\/\/shop_images\/gym-weight-lifting.jpg","image_position":"right","image_width":50,"title":"Your title","content":"<p>Use this text to share information about your brand with your customers.<br\/>Describe a product, share announcements, or welcome customers to your store.<\/p>","button_text":"Our products","button_link":"shopify:\/\/collections\/all"}},"1659469474765e19ce":{"type":"image-with-text","settings":{"background_color":"#0e184b","text_color":"#ffffff","image":"shopify:\/\/shop_images\/showroom_2.jpg","image_position":"left","image_width":50,"title":"SUMMERLIN SUPER SHOWROOM","content":"","button_text":"GET DIRECTIONS","button_link":"https:\/\/www.google.com\/maps\/place\/9717+W+Flamingo+Rd,+Las+Vegas,+NV+89147\/@36.114962,-115.302407,17z\/data=!3m1!4b1!4m5!3m4!1s0x80c8bf4b45fb15e1:0x38dbd22e169cb77b!8m2!3d36.114962!4d-115.302407"}},"1649771687ca5d02bd":{"type":"mosaic","blocks":{"1649771687a2f932bc-0":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/summerlin.png","show_overlay":true,"overlay_opacity":26,"background":"#f3f4f4","text_color":"#ffffff","title":"SUMMERLIN SUPER SHOWROOM","content":"","content_position":"top_left","button_background":"#ff931c","button_text_color":"#ffffff","button_text":"Take the Tour","link":"#"}}},"block_order":["1649771687a2f932bc-0"],"disabled":true,"settings":{"section_size":"large"}},"16502988752594a9b2":{"type":"promotion-list","blocks":{"1650298875d453b8a3-0":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#ffffff","text_color":"#000000","title":"DESIGN AND CONSULTATION","content":"Design and consultation is a complimentary service we provide to all of our customers. Provide us with the dimensions of your space and we will design a floor plan that will maximize limited space, capture your style, and promote safety.","content_position":"top_center","button_background":"#2bb2e4","button_text_color":"#ffffff","button_text":"Learn more","button_link":"shopify:\/\/pages\/services"}},"1650298875d453b8a3-1":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#ffffff","text_color":"#000000","title":"SERVICE, DELIVERY, AND INSTALLATION","content":"Pacific Fitness Equipment offers service and delivery to new and existing customers. Allow our in-house service technicians to deliver and install your fitness equipment saving you the time and frustration of installing it yourself.","content_position":"top_center","button_background":"#2bb2e4","button_text_color":"#ffffff","button_text":"Learn more","button_link":"shopify:\/\/pages\/services"}},"1650298875d453b8a3-2":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#ffffff","text_color":"#000000","title":"PREVENTATIVE MAINTENANCE","content":"Preventative Maintenance is recommended for fitness equipment that is sustaining heavy usage throughout the day on a daily basis. Apartment complexes, casinos, and master planned community fitness centers are typical customers that use this service.","content_position":"top_center","button_background":"#2bb2e4","button_text_color":"#ffffff","button_text":"Learn more","button_link":"shopify:\/\/pages\/services"}}},"block_order":["1650298875d453b8a3-0","1650298875d453b8a3-1","1650298875d453b8a3-2"],"settings":{"title":"Our Services","link_title":"","link":"shopify:\/\/pages\/services","expand_items":false,"section_size":"medium","stack_mobile":false}},"16497764971a0ea5c0":{"type":"logo-list","blocks":{"da70c1ec-163a-4b48-ac30-a0814200c391":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/Matrix_logo_1_color_black_9f34d37e-30a6-4fd8-bf70-9dd9e7ab1b30.png","link":"shopify:\/\/collections\/matrix"}},"ecb3fa2b-493c-4e47-a4d7-76b43ddc5e66":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/lifefitness-logo-nobackground.png","link":"shopify:\/\/collections\/lifefitness"}},"1649776497dafc03b8-4":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/truefitness.png","link":"shopify:\/\/collections\/true"}},"1649776497dafc03b8-3":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-spirit-black_forportal.png","link":"shopify:\/\/collections\/spirit"}},"1649776497dafc03b8-0":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/hoist_logo_scaled.png","link":"shopify:\/\/collections\/stair-master"}},"1649776497dafc03b8-1":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/inspire_logo.png","link":"shopify:\/\/collections\/inspire-fitness"}},"0a19f7c6-8a82-4882-9a05-8cfdf53c85ba":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/Batca-Fitness-Logo.png","link":"shopify:\/\/collections\/batca"}},"7c61afac-b030-42bd-8eab-9c36e83e7f89":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/vision_fitness_no_background.png","link":"shopify:\/\/collections\/vision-fitness"}}},"block_order":["da70c1ec-163a-4b48-ac30-a0814200c391","ecb3fa2b-493c-4e47-a4d7-76b43ddc5e66","1649776497dafc03b8-4","1649776497dafc03b8-3","1649776497dafc03b8-0","1649776497dafc03b8-1","0a19f7c6-8a82-4882-9a05-8cfdf53c85ba","7c61afac-b030-42bd-8eab-9c36e83e7f89"],"settings":{"title":"Shop By Brands","link_title":"","link":"shopify:\/\/collections"}},"blog-posts":{"type":"blog-posts","disabled":true,"settings":{"blog":"","blog_posts_count":3,"title":"Blog posts","link_title":"View all","show_category":true,"show_author":true,"show_date":true,"show_excerpt":false,"stack_mobile":false}},"newsletter":{"type":"newsletter","disabled":true,"settings":{"title":"Newsletter","content":"<p>A short sentence describing what someone will receive by subscribing<\/p>","background":"#0f1b58","text":"#ffffff"}},"1660855957795a7408":{"type":"promotion-list","blocks":{"16608559573fceb290-0":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#6f42ef","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#ffffff","button_text_color":"#6f42ef","button_text":"Learn more","button_link":""}},"16608559573fceb290-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#ff8600","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","content_position":"middle_center","button_background":"#ffffff","button_text_color":"#fc2a68","button_text":"Learn more","button_link":""}},"16608559573fceb290-2":{"type":"item","settings":{"show_overlay":false,"overlay_opacity":50,"stretch_image":false,"background":"#26c1ce","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","content_position":"top_left","button_background":"#ffffff","button_text_color":"#26c1ce","button_text":"Learn more","button_link":""}}},"block_order":["16608559573fceb290-0","16608559573fceb290-1","16608559573fceb290-2"],"disabled":true,"settings":{"title":"","link_title":"","link":"","expand_items":false,"section_size":"medium","stack_mobile":false}}},"order":["slideshow","1657562690da6a31c0","1649776174584c605a","featured-collection","1649776185a30fbbdd","164977678290082194","1649774236de7507b7","collection-list","16575626409f790119","16575625821141e3f4","16608560642e532848","1659469474765e19ce","1649771687ca5d02bd","16502988752594a9b2","16497764971a0ea5c0","blog-posts","newsletter","1660855957795a7408"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_khEHV9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MARCH-SALE-FINAL_ed2e3fc0-145c-4bd2-85a1-3bbbf83ca477.png",
+            "mobile_image": "shopify:\/\/shop_images\/matrix-sale-phone.png",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "shopify:\/\/collections\/matrix"
+          }
+        },
+        "image_WXNmzC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LIFEFITNESSBANNER.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        },
+        "image_BMCBDe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spirit_ad.png",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "shopify:\/\/collections\/spirit"
+          }
+        },
+        "image_XHK36k": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/finalslide.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "shopify:\/\/collections\/home-gyms"
+          }
+        }
+      },
+      "block_order": [
+        "image_khEHV9",
+        "image_WXNmzC",
+        "image_BMCBDe",
+        "image_XHK36k"
+      ],
+      "settings": {
+        "edge_to_edge": true,
+        "section_size": "preserve_ratio",
+        "carousel_effect": "fade",
+        "autoplay": true,
+        "cycle_speed": 3
+      }
+    },
+    "1657562690da6a31c0": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "whats-trending",
+        "title": "Featured Products",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
+    "1649776174584c605a": {
+      "type": "promotion-list",
+      "blocks": {
+        "1649776174c68b5b15-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-eliptical-removebg-preview.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#0e184b",
+            "text_color": "#ffffff",
+            "title": "Ellipticals",
+            "content": "Explore  Ellipticals Products",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "View All",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "1649776174c68b5b15-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-Treadmill.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#0e184b",
+            "text_color": "#ffffff",
+            "title": "Treadmills",
+            "content": "Explore Treadmills Products",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "View All",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "1649776174c68b5b15-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bikebannerosimage-removebg-preview.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#0e184b",
+            "text_color": "#ffffff",
+            "title": "Bikes",
+            "content": "Explore Bikes Products",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "View All",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1649776174c68b5b15-0",
+        "1649776174c68b5b15-1",
+        "1649776174c68b5b15-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "link_title": "",
+        "link": "",
+        "expand_items": false,
+        "section_size": "medium",
+        "stack_mobile": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "home-gyms-from-tuffstuff",
+        "title": "HOME GYMS FROM TUFFSTUFF",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": "shopify:\/\/collections\/home-gyms-from-tuffstuff"
+      }
+    },
+    "1649776185a30fbbdd": {
+      "type": "collection-with-image",
+      "disabled": true,
+      "settings": {
+        "collection": "exercise-bikes-from-lifefitness",
+        "products_count": 12,
+        "show_quick_buy": true,
+        "image": "shopify:\/\/shop_images\/bikebannerosimage-removebg-preview.png",
+        "background": "#0e184b",
+        "text_color": "#ffffff",
+        "title": "EXERCISE BIKES FROM LIFEFITNESS",
+        "content": "Explore Products",
+        "button_background": "#ff931c",
+        "button_text_color": "#ffffff",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/collections\/exercise-bikes-from-lifefitness"
+      }
+    },
+    "164977678290082194": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "benches-racks-from-tuff-stuff",
+        "title": "BENCHES\/RACKS FROM TUFF STUFF",
+        "products_count": 12,
+        "layout": "horizontal",
+        "stack_products": false,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
+    "1649774236de7507b7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/stationary-bike-workout.jpg",
+        "title": "PACIFIC FITNESS EQUIPMENT",
+        "content": "<p>A locally owned company with an in-house service department committed to providing our customers the highest quality commercial fitness equipment and excellent customer service.<\/p><p><a href=\"\/pages\/about-us\" title=\"About Us\">Learn More<\/a><\/p>",
+        "show_image_overlay": true,
+        "color": "#ffffff"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "ellipticals",
+            "image": "shopify:\/\/shop_images\/2_173dedd3-d4a1-4fcb-960f-01a599b1d660.png",
+            "link": "shopify:\/\/collections\/ellipticals"
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "treadmills",
+            "image": "shopify:\/\/shop_images\/3_67d9cf3b-178b-42e7-8905-15b60e33583e.png",
+            "link": "shopify:\/\/collections\/treadmills"
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "bikes",
+            "image": "shopify:\/\/shop_images\/4_a56b2375-f855-40f8-af43-872800299f07.png",
+            "link": "shopify:\/\/collections\/bikes"
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "home-gyms",
+            "image": "shopify:\/\/shop_images\/1_3d31f17d-a603-44c4-9b95-2a7e487b2923.png",
+            "link": "shopify:\/\/collections\/home-gyms"
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "rowers",
+            "image": "shopify:\/\/shop_images\/5_ab2ddcb5-5a54-4ce7-842c-be1504ae5b78.png",
+            "link": "shopify:\/\/collections\/rowers"
+          }
+        },
+        "3dbcfce0-639a-4fb5-8f5d-cc72aac577a6": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3",
+        "collection-4",
+        "collection-5",
+        "3dbcfce0-639a-4fb5-8f5d-cc72aac577a6"
+      ],
+      "settings": {
+        "title": "Our collections",
+        "link_title": "",
+        "link": "",
+        "round_images": false,
+        "show_collection_title": true
+      }
+    },
+    "16575626409f790119": {
+      "type": "promotion-list",
+      "blocks": {
+        "165756263917714aca-0": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#6f42ef",
+            "text_color": "#ffffff",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#6f42ef",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "165756263917714aca-1": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#fc2a68",
+            "text_color": "#ffffff",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#fc2a68",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "165756263917714aca-2": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#26c1ce",
+            "text_color": "#ffffff",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#26c1ce",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165756263917714aca-0",
+        "165756263917714aca-1",
+        "165756263917714aca-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "link_title": "",
+        "link": "",
+        "expand_items": false,
+        "section_size": "medium",
+        "stack_mobile": false
+      }
+    },
+    "16575625821141e3f4": {
+      "type": "mosaic",
+      "blocks": {
+        "16575625824f496d04-0": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "16575625824f496d04-1": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "16575625824f496d04-2": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "16575625824f496d04-3": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "16575625824f496d04-4": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16575625824f496d04-0",
+        "16575625824f496d04-1",
+        "16575625824f496d04-2",
+        "16575625824f496d04-3",
+        "16575625824f496d04-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_size": "medium"
+      }
+    },
+    "16608560642e532848": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "background_color": "#ff8600",
+        "text_color": "#ff8600",
+        "image": "shopify:\/\/shop_images\/gym-weight-lifting.jpg",
+        "image_position": "right",
+        "image_width": 50,
+        "title": "Your title",
+        "content": "<p>Use this text to share information about your brand with your customers.<br\/>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "button_text": "Our products",
+        "button_link": "shopify:\/\/collections\/all"
+      }
+    },
+    "1659469474765e19ce": {
+      "type": "image-with-text",
+      "settings": {
+        "background_color": "#0e184b",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/showroom_2.jpg",
+        "image_position": "left",
+        "image_width": 50,
+        "title": "SUMMERLIN SUPER SHOWROOM",
+        "content": "<p>test<\/p>",
+        "button_text": "GET DIRECTIONS",
+        "button_link": "https:\/\/www.google.com\/maps\/place\/9717+W+Flamingo+Rd,+Las+Vegas,+NV+89147\/@36.114962,-115.302407,17z\/data=!3m1!4b1!4m5!3m4!1s0x80c8bf4b45fb15e1:0x38dbd22e169cb77b!8m2!3d36.114962!4d-115.302407"
+      }
+    },
+    "1649771687ca5d02bd": {
+      "type": "mosaic",
+      "blocks": {
+        "1649771687a2f932bc-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/summerlin.png",
+            "show_overlay": true,
+            "overlay_opacity": 26,
+            "background": "#f3f4f4",
+            "text_color": "#ffffff",
+            "title": "SUMMERLIN SUPER SHOWROOM",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#ff931c",
+            "button_text_color": "#ffffff",
+            "button_text": "Take the Tour",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "1649771687a2f932bc-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_size": "large"
+      }
+    },
+    "16502988752594a9b2": {
+      "type": "promotion-list",
+      "blocks": {
+        "1650298875d453b8a3-0": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "title": "DESIGN AND CONSULTATION",
+            "content": "Design and consultation is a complimentary service we provide to all of our customers. Provide us with the dimensions of your space and we will design a floor plan that will maximize limited space, capture your style, and promote safety.",
+            "content_position": "top_center",
+            "button_background": "#2bb2e4",
+            "button_text_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/services"
+          }
+        },
+        "1650298875d453b8a3-1": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "title": "SERVICE, DELIVERY, AND INSTALLATION",
+            "content": "Pacific Fitness Equipment offers service and delivery to new and existing customers. Allow our in-house service technicians to deliver and install your fitness equipment saving you the time and frustration of installing it yourself.",
+            "content_position": "top_center",
+            "button_background": "#2bb2e4",
+            "button_text_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/services"
+          }
+        },
+        "1650298875d453b8a3-2": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "title": "PREVENTATIVE MAINTENANCE",
+            "content": "Preventative Maintenance is recommended for fitness equipment that is sustaining heavy usage throughout the day on a daily basis. Apartment complexes, casinos, and master planned community fitness centers are typical customers that use this service.",
+            "content_position": "top_center",
+            "button_background": "#2bb2e4",
+            "button_text_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/services"
+          }
+        }
+      },
+      "block_order": [
+        "1650298875d453b8a3-0",
+        "1650298875d453b8a3-1",
+        "1650298875d453b8a3-2"
+      ],
+      "settings": {
+        "title": "Our Services",
+        "link_title": "",
+        "link": "shopify:\/\/pages\/services",
+        "expand_items": false,
+        "section_size": "medium",
+        "stack_mobile": false
+      }
+    },
+    "16497764971a0ea5c0": {
+      "type": "logo-list",
+      "blocks": {
+        "da70c1ec-163a-4b48-ac30-a0814200c391": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Matrix_logo_1_color_black_9f34d37e-30a6-4fd8-bf70-9dd9e7ab1b30.png",
+            "link": "shopify:\/\/collections\/matrix"
+          }
+        },
+        "ecb3fa2b-493c-4e47-a4d7-76b43ddc5e66": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lifefitness-logo-nobackground.png",
+            "link": "shopify:\/\/collections\/lifefitness"
+          }
+        },
+        "1649776497dafc03b8-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/truefitness.png",
+            "link": "shopify:\/\/collections\/true"
+          }
+        },
+        "1649776497dafc03b8-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-spirit-black_forportal.png",
+            "link": "shopify:\/\/collections\/spirit"
+          }
+        },
+        "1649776497dafc03b8-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hoist_logo_scaled.png",
+            "link": "shopify:\/\/collections\/stair-master"
+          }
+        },
+        "1649776497dafc03b8-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/inspire_logo.png",
+            "link": "shopify:\/\/collections\/inspire-fitness"
+          }
+        },
+        "0a19f7c6-8a82-4882-9a05-8cfdf53c85ba": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Batca-Fitness-Logo.png",
+            "link": "shopify:\/\/collections\/batca"
+          }
+        },
+        "7c61afac-b030-42bd-8eab-9c36e83e7f89": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vision_fitness_no_background.png",
+            "link": "shopify:\/\/collections\/vision-fitness"
+          }
+        }
+      },
+      "block_order": [
+        "da70c1ec-163a-4b48-ac30-a0814200c391",
+        "ecb3fa2b-493c-4e47-a4d7-76b43ddc5e66",
+        "1649776497dafc03b8-4",
+        "1649776497dafc03b8-3",
+        "1649776497dafc03b8-0",
+        "1649776497dafc03b8-1",
+        "0a19f7c6-8a82-4882-9a05-8cfdf53c85ba",
+        "7c61afac-b030-42bd-8eab-9c36e83e7f89"
+      ],
+      "settings": {
+        "title": "Shop By Brands",
+        "link_title": "",
+        "link": "shopify:\/\/collections"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "blog": "",
+        "blog_posts_count": 3,
+        "title": "Blog posts",
+        "link_title": "View all",
+        "show_category": true,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpt": false,
+        "stack_mobile": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+        "background": "#0f1b58",
+        "text": "#ffffff"
+      }
+    },
+    "1660855957795a7408": {
+      "type": "promotion-list",
+      "blocks": {
+        "16608559573fceb290-0": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#6f42ef",
+            "text_color": "#ffffff",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#6f42ef",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "16608559573fceb290-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#ff8600",
+            "text_color": "#ffffff",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#fc2a68",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "16608559573fceb290-2": {
+          "type": "item",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#26c1ce",
+            "text_color": "#ffffff",
+            "title": "Your heading",
+            "content": "Tell more about your product, collection...",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#26c1ce",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16608559573fceb290-0",
+        "16608559573fceb290-1",
+        "16608559573fceb290-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "link_title": "",
+        "link": "",
+        "expand_items": false,
+        "section_size": "medium",
+        "stack_mobile": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1657562690da6a31c0",
+    "1649776174584c605a",
+    "featured-collection",
+    "1649776185a30fbbdd",
+    "164977678290082194",
+    "1649774236de7507b7",
+    "collection-list",
+    "16575626409f790119",
+    "16575625821141e3f4",
+    "16608560642e532848",
+    "1659469474765e19ce",
+    "1649771687ca5d02bd",
+    "16502988752594a9b2",
+    "16497764971a0ea5c0",
+    "blog-posts",
+    "newsletter",
+    "1660855957795a7408"
+  ]
+}
