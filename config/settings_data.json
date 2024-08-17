@@ -167,7 +167,7 @@
           "show_announcement": true,
           "background": "#0e184b",
           "text_color": "#ffffff",
-          "text": "Free shipping on orders over $499",
+          "text": "Free shipping on orders over $499*",
           "text_position": "left",
           "link": "",
           "show_newsletter": true,
