@@ -45,6 +45,22 @@
             "link": ""
           }
         },
+        "image_fjnMyn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woodwaynooutline.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        },
         "image_BMCBDe": {
           "type": "image",
           "settings": {
@@ -81,6 +97,7 @@
       "block_order": [
         "image_khEHV9",
         "image_WXNmzC",
+        "image_fjnMyn",
         "image_BMCBDe",
         "image_XHK36k"
       ],
