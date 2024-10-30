@@ -649,8 +649,8 @@
         "1649776497dafc03b8-4": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/truefitness.png",
-            "link": "shopify://collections/true"
+            "image": "shopify://shop_images/woodway.png",
+            "link": "shopify://collections/woodway"
           }
         },
         "1649776497dafc03b8-3": {
@@ -684,8 +684,8 @@
         "7c61afac-b030-42bd-8eab-9c36e83e7f89": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/vision_fitness_no_background.png",
-            "link": "shopify://collections/vision-fitness"
+            "image": "shopify://shop_images/truefitness.png",
+            "link": "shopify://collections/true"
           }
         }
       },
