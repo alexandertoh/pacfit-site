@@ -15,7 +15,7 @@
         "image_D74M4i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/blackfridayad.png",
+            "image": "shopify://shop_images/holiday_season_ad.png",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -80,7 +80,7 @@
         "image_Dj6VU8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spirit_Fall_Ad_1.png",
+            "image": "shopify://shop_images/spirit_winter_sale.png",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -96,7 +96,7 @@
         "image_wtYe7y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Fall_strength.png",
+            "image": "shopify://shop_images/updated_fall_strength_sale.png",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
