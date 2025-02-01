@@ -214,7 +214,7 @@
             "settings": {
               "icon": "bi-customer-support",
               "title": "Top-notch support",
-              "content": "<p>Contact us by chat, mail, phone</p>"
+              "content": "<p>Contact us by email or phone</p>"
             }
           },
           "static-text-with-icons-3": {
