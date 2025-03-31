@@ -15,7 +15,7 @@
         "image_D74M4i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/newyearssale.png",
+            "image": "shopify://shop_images/downtime.png",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
