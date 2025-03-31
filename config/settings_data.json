@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_color": "#0e184b",
@@ -54,11 +54,11 @@
     "show_inventory_quantity": false,
     "low_inventory_threshold": 2,
     "cart_type": "drawer",
-    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_empty_button_link": "shopify://collections/all",
     "cart_show_checkout_button": true,
-    "cart_show_free_shipping_threshold": true,
-    "cart_free_shipping_threshold": "49",
-    "social_facebook": "https:\/\/www.facebook.com\/Pacific-Fitness-Equipment-106992674473048",
+    "cart_show_free_shipping_threshold": false,
+    "cart_free_shipping_threshold": "499",
+    "social_facebook": "https://www.facebook.com/Pacific-Fitness-Equipment-106992674473048",
     "social_twitter": "",
     "social_pinterest": "",
     "social_instagram": "",
@@ -68,9 +68,9 @@
     "social_linkedin": "",
     "social_snapchat": "",
     "social_fancy": "",
-    "favicon": "shopify:\/\/shop_images\/Ik.png",
+    "favicon": "shopify://shop_images/Ik.png",
     "checkout_header_image": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/PacFit_LogoSTacked_BLKBG_RGB.png",
+    "checkout_logo_image": "shopify://shop_images/PacFit_LogoSTacked_BLKBG_RGB.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_image": "",
@@ -88,7 +88,7 @@
         "type": "header",
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/New_Logo-02-2x.png",
+          "logo": "shopify://shop_images/New_Logo-02-2x.png",
           "logo_max_width": 285,
           "mobile_logo_max_width": 155,
           "show_locale_selector": true,
@@ -98,8 +98,8 @@
           "desktop_navigation_layout": "inline",
           "desktop_navigation_open_trigger": "hover",
           "show_navigation_social_media": true,
-          "navigation_phone_number": "Call us 000-000-0000",
-          "navigation_email": "info@yourwebsite.com",
+          "navigation_phone_number": "Call us 702-227-4535",
+          "navigation_email": "info@pacfitlv.com",
           "show_condensed_search": true,
           "show_search_filter": true,
           "search_menu": "",
@@ -113,13 +113,13 @@
             "type": "text",
             "settings": {
               "title": "LAS VEGAS SHOWROOM",
-              "content": "<p>9719 W Flamingo Rd<br\/>Las Vegas, NV 89147<\/p><p>Phone: 702-227-4535<br\/>Email: info@pacfitlv.com<\/p>"
+              "content": "<p>9719 W Flamingo Rd<br/>Las Vegas, NV 89147</p><p>Phone: 702-227-4535<br/>Email: info@pacfitlv.com</p>"
             }
           },
           "image_crXr8K": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/PacFit_25thBadge_RGB_200x200_8e574226-e171-46c4-a113-2db35f92c4e5.png"
+              "image": "shopify://shop_images/PacFit_25thBadge_RGB_200x200_8e574226-e171-46c4-a113-2db35f92c4e5.png"
             }
           },
           "7a284fb8-1b80-4d9c-a68c-f9692c26639a": {
@@ -140,7 +140,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Sign Up Our Newsletter",
-              "subheading": "<p>Learn What's New with Pacific Fitness! <\/p>"
+              "subheading": "<p>Learn What's New with Pacific Fitness! </p>"
             }
           }
         },
@@ -157,7 +157,7 @@
           "show_locale_selector": true,
           "show_country_selector": true,
           "show_cookie_bar": false,
-          "text": "<p>Use this bar to show information about your cookie policy.<\/p>",
+          "text": "<p>Use this bar to show information about your cookie policy.</p>",
           "accept_button": "Accept"
         }
       },
@@ -167,13 +167,13 @@
           "show_announcement": true,
           "background": "#0e184b",
           "text_color": "#ffffff",
-          "text": "Free shipping on orders over $499",
-          "text_position": "left",
+          "text": "Free shipping on orders over $499*",
+          "text_position": "center",
           "link": "",
           "show_newsletter": true,
           "newsletter_button": "Subscribe & Save",
           "newsletter_title": "Sign Up Newsletter",
-          "newsletter_content": "<p>Learn What's New with Pacific Fitness! <\/p>"
+          "newsletter_content": "<p>Learn What's New with Pacific Fitness! </p>"
         }
       },
       "popups": {
@@ -187,7 +187,7 @@
               "show_only_for_visitors": false,
               "show_only_once": false,
               "title": "Subscribe & Save",
-              "content": "<p>Learn What's New with Pacific Fitness!<\/p>",
+              "content": "<p>Learn What's New with Pacific Fitness!</p>",
               "show_newsletter": true,
               "apparition_delay": 5
             }
@@ -196,8 +196,7 @@
         "block_order": [
           "3c972d76-6a33-4a39-8899-4e1fa3f5656c"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "static-text-with-icons": {
         "type": "static-text-with-icons",
@@ -207,7 +206,7 @@
             "settings": {
               "icon": "bi-returns",
               "title": "Satisfied or refunded",
-              "content": "<p>Free returns within 14 days<\/p>"
+              "content": "<p>Free returns within 3 days of delivery</p>"
             }
           },
           "static-text-with-icons-2": {
@@ -215,7 +214,7 @@
             "settings": {
               "icon": "bi-customer-support",
               "title": "Top-notch support",
-              "content": "<p>Contact us by chat, mail, phone<\/p>"
+              "content": "<p>Contact us by email or phone</p>"
             }
           },
           "static-text-with-icons-3": {
@@ -223,7 +222,7 @@
             "settings": {
               "icon": "bi-secure-payment",
               "title": "Secure payments",
-              "content": "<p>Visa, Mastercard, Amex, PayPal<\/p>"
+              "content": "<p>Visa, Mastercard, Amex, PayPal</p>"
             }
           }
         },
@@ -238,9 +237,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Metal": {
@@ -289,7 +286,7 @@
       "low_inventory_threshold": 0,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_checkout_button": true,
       "cart_show_free_shipping_threshold": false,
       "cart_free_shipping_threshold": "50",
@@ -341,7 +338,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -354,7 +351,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -377,7 +374,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         }
       }
@@ -428,7 +425,7 @@
       "low_inventory_threshold": 1,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_checkout_button": true,
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "50",
@@ -466,7 +463,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -479,7 +476,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -502,7 +499,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         }
       }
@@ -553,7 +550,7 @@
       "low_inventory_threshold": 2,
       "show_reviews_badge": true,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_checkout_button": true,
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "49",
@@ -604,7 +601,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -617,7 +614,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -640,7 +637,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         }
       }
