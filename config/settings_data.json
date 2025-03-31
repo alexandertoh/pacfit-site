@@ -165,12 +165,12 @@
         "type": "announcement-bar",
         "settings": {
           "show_announcement": true,
-          "background": "#0e184b",
+          "background": "#ff0000",
           "text_color": "#ffffff",
-          "text": "Free shipping on orders over $499*",
+          "text": "SCHEDULED DOWNTIME: Scheduled maintenance from 12:30 PM to 1:00 PM PST 3-31-2025. Some features may be temporarily unavailable such as purchases",
           "text_position": "center",
           "link": "",
-          "show_newsletter": true,
+          "show_newsletter": false,
           "newsletter_button": "Subscribe & Save",
           "newsletter_title": "Sign Up Newsletter",
           "newsletter_content": "<p>Learn What's New with Pacific Fitness! </p>"
