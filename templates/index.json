@@ -15,7 +15,7 @@
         "image_D74M4i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/downtime.png",
+            "image": "shopify://shop_images/springsalead_1.png",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -79,6 +79,7 @@
         },
         "image_Dj6VU8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/SPIRIT_NEW_YEARS.png",
             "show_overlay": false,
@@ -95,6 +96,7 @@
         },
         "image_wtYe7y": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/strength_new_years.jpg",
             "show_overlay": false,
